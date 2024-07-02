@@ -50,7 +50,7 @@
 
 ;;(require 'php-mode)
 
-(add-to-list 'load-path "/home/dandrews/emacs")
+(add-to-list 'load-path "/home/davebear/emacs")
 ;(require 'cmake-mode)
 (require 'minimap)
 
